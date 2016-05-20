@@ -1,0 +1,128 @@
+body {
+	text-align: center;
+	background-color: #CCDADF;
+	color: #474747;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+.container {
+	min-height: 100%;
+	position: relative;
+}
+
+.body {
+	padding-bottom: 100px;
+}
+
+.main-heading {
+	background-color: #004A61;
+	color: #E9AF32;
+	padding: 8px 0 8px;
+	border: solid 4px #4C8090;
+	border-right: solid 4px #264048;
+	border-bottom: solid 4px #264048;
+	border-radius: 10px;
+	margin: 0 10px 0 10px;
+}
+
+img {
+	height: 200px;
+	border: solid 2px;
+	border-radius: 0.5em;
+	border-color: #808784;
+	margin-right: 10px;
+	margin-top: 11px;
+	margin-bottom: 30px;
+}
+
+ul {
+	padding: 0;
+}
+
+li {
+	list-style-type: none;
+}
+
+footer {
+	height: 80px;
+	background-color: #004A61;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	text-align: right;
+	font-size: 30px;
+}
+
+footer ul {
+	margin-bottom: 0;
+	padding-right: 20px;
+}
+
+footer li {
+	display: inline;
+	padding-right: 10px;
+}
+
+footer li a {
+	text-decoration: none;
+	color: #2A2A2A;
+}
+
+footer li a:visited {
+	text-decoration: none;
+	color: #2A2A2A;
+}
+
+footer li a:hover {
+	color: #E9AF32;
+}
+
+.message {
+	height: 200px;
+	width: 400px;
+	display: block;
+	margin-bottom: 40px;
+}
+
+.message-box {
+	height: 200px;
+	width: 400px;
+	border-style: solid;
+	border: 20px;
+	border-color: #808784;
+	border-radius: 4px;
+}
+
+label {
+	display: center;
+	margin-top: 20px;
+}
+
+#contact-form {
+	margin-top: 40px;
+	text-shadow: none;
+	text-align: left;
+	padding-left: 200px;
+}
+
+#contact-form h1 {
+	text-align: center;
+}
+
+input {
+	border-style: none;
+	border-color: #808784;
+	border-radius: 4px;
+}
+
+form {
+	padding: 30px 0 55px 30px;
+}
+
+button {
+	font-size: 15px;
+  padding: 4px;
+}
